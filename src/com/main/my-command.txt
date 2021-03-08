@@ -1,0 +1,7 @@
+UwUify
+
+UwUify takes a user inputted string and adds UwU and OwO in the place of certain parts of words, directly
+after an e put wo, add uwu to the end of the sentence and in place of an o replace it with owo .
+
+Input: UWUIFY "Hello my name is noah and I enjoy Coding!"
+Output: "Hewo my namewo is nowo and I enjoy cowoding uwu!"
